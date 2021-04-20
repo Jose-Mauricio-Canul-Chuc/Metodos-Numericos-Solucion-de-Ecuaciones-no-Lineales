@@ -3,6 +3,7 @@
 * JOSÉ MAURICIO CANUL CHUC
 * MARCO ANTONIO TUZ PECH
 * RODRIGO ÁNGEL POOT POOT
+*JOSÉ RICARDO MAY ESTRELLA
 */
 package metodosnumericos;
 import javax.swing.JOptionPane;
